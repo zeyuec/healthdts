@@ -1,0 +1,29 @@
+.title {
+    font-size: 40px;
+    line-height: 72px;
+    color: #008B45;
+    margin: 20px 0 20px 0;
+    text-shadow: 1px 1px 5px #789;
+}
+
+.score {
+    font-size: 30px;
+    line-height: 50px;
+    color: #008B45;
+    margin: 20px 0 20px 0;
+    text-shadow: 1px 1px 5px #789;
+}
+
+.content {
+    margin-top: 70px;
+}
+
+.range-text {
+    font-size: 20px;
+    color: gray;
+    text-shadow: 1px 1px 1px #789;
+}
+
+hr {
+    margin: 50px 0 50px 0;
+}
